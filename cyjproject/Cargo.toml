@@ -1,0 +1,6 @@
+[package]
+name = "cyjproject"
+version = "0.1.0"
+authors = ["cyj"]
+
+[dependencies]
